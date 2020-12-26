@@ -1,2 +1,3 @@
 # aws
-AWS
+Local stack
+
